@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <div className="navbarFull flex flex-row  bg-zinc-500 p-4 text-lg font-medium 0 space-x-72">
         <div className="logo flex">
-          <div className="logo flex-row">This is logo</div>
+          <div className="logo flex-row">Personal Portfolio</div>
         </div>
 
         <div className="navbar-icon flex ">
